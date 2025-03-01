@@ -7,6 +7,8 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3.5%2B-red)
 ![Seaborn](https://img.shields.io/badge/seaborn-0.11%2B-blue)
 
+![image](https://github.com/user-attachments/assets/e48e5d76-73ff-42a5-aa5a-be3f89a6f4f5)
+
 ## 📊 Comprehensive Telecom Customer Churn Analysis with Survival Analytics
 
 This repository contains a comprehensive Python-based analytics toolkit for analyzing customer churn in the telecommunications industry using advanced survival analysis techniques. The script performs in-depth analysis of customer behavior, churn patterns, and lifetime value using both classical machine learning and specialized survival analysis methods.
@@ -22,6 +24,8 @@ This repository contains a comprehensive Python-based analytics toolkit for anal
 - **Cohort Analysis**: Track churn patterns across different customer cohorts
 - **Data Visualization**: Rich visualizations of all analysis results
 - **Strategic Recommendations**: Data-driven insights for reducing churn
+
+![image](https://github.com/user-attachments/assets/c4a2e987-5ddb-47d3-9d4c-806802255ad7)
 
 ## 📋 Dataset Description
 
@@ -102,6 +106,7 @@ df = pd.read_csv('your_file.csv')
 ```bash
 python telecom_churn_analysis.py
 ```
+![image](https://github.com/user-attachments/assets/24f4bbf6-f4ac-4dbe-b0c2-df1075dfc4db)
 
 ## 🔬 Analysis Components
 
@@ -159,6 +164,8 @@ The analysis is structured into the following sections:
    - Targeted intervention timing
    - Value-maximizing approaches
 
+![image](https://github.com/user-attachments/assets/690689bf-0ec5-47de-9e6f-96721b9aa779)
+
 ## 🔍 Key Insights
 
 The analysis typically reveals several key insights that can drive business strategy:
@@ -169,6 +176,9 @@ The analysis typically reveals several key insights that can drive business stra
 - **Segment Performance**: Which customer segments have the highest/lowest retention
 - **Intervention Windows**: Optimal timing for retention initiatives
 - **Financial Impact**: Quantification of revenue impact from churn reduction
+
+![image](https://github.com/user-attachments/assets/79af0d96-a261-4382-87e0-57c87e16cbdd)
+
 
 ## 📊 Visualization Examples
 
