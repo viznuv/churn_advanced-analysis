@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis
+# Advanced Customer Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![lifelines](https://img.shields.io/badge/lifelines-0.27.0-green)
@@ -9,7 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/e48e5d76-73ff-42a5-aa5a-be3f89a6f4f5)
 
-## 📊 Comprehensive Telecom Customer Churn Analysis with Survival Analytics
+## 📊 Comprehensive Customer Churn Analysis with Survival Analytics
 
 This repository contains a comprehensive Python-based analytics toolkit for analyzing customer churn in the telecommunications industry using advanced survival analysis techniques. The script performs in-depth analysis of customer behavior, churn patterns, and lifetime value using both classical machine learning and specialized survival analysis methods.
 
